@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 수강신청 도우미 Easy봇입니다.
 
 You can use the [editor on GitHub](https://github.com/yby75/registrationbot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
