@@ -1,8 +1,7 @@
 ### 안녕하세요. 수강신청 안내를 도와드리는 Easybot 춤추는 망고 입니다  ^^
 
 ##  Markdown
-![GitHub Logo](/images/https://user-images.githubusercontent.com/104042384/168467045-b485b9b8-ee45-4b7b-85d2-31f8d3191d3a.jpeg){: width="50%" height="50%"}
-(https://user-images.githubusercontent.com/104042384/168467045-b485b9b8-ee45-4b7b-85d2-31f8d3191d3a.jpeg
+![This is an image](https://user-images.githubusercontent.com/104042384/168467045-b485b9b8-ee45-4b7b-85d2-31f8d3191d3a.jpeg){: width="50%" height="50%"}
 
 
 
