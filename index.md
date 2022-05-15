@@ -4,9 +4,7 @@
 
 
 
-
-
-###
+### 시간표
 ![This is an image](https://user-images.githubusercontent.com/104042384/168467029-7d11f618-6000-4b71-92c5-421177e416f0.PNG)
 
 
