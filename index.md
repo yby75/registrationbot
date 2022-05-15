@@ -1,6 +1,6 @@
 ### 안녕하세요. 수강신청 안내를 도와드리는 Easybot 춤추는 망고 입니다  ^^
 
-![This is an image]((https://user-images.githubusercontent.com/104042384/168471804-d0232c22-0acf-4a23-95a6-b1a3519dc169.PNG)
+![This is an image](https://user-images.githubusercontent.com/104042384/168471804-d0232c22-0acf-4a23-95a6-b1a3519dc169.PNG)
 
 
 ### 시간표
