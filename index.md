@@ -1,6 +1,16 @@
 ### 안녕하세요. 수강신청 안내를 도와드리는 Easybot 춤추는 망고 입니다  ^^
 
-##  Markdown
+![This is an image](https://user-images.githubusercontent.com/104042384/166693683-a0c73b09-f30d-47a3-826e-303969475751.gif){: width="50%" height="50%"}{:.center}
+
+
+
+
+
+### ![image](https://user-images.githubusercontent.com/104042384/168467564-20c27b32-673b-4243-92eb-53eb0e5a6ab2.png)시간표
+![This is an image]https://user-images.githubusercontent.com/104042384/168467029-7d11f618-6000-4b71-92c5-421177e416f0.PNG
+
+
+
 ![This is an image](https://user-images.githubusercontent.com/104042384/168467045-b485b9b8-ee45-4b7b-85d2-31f8d3191d3a.jpeg){: width="50%" height="50%"}
 
 
@@ -20,11 +30,6 @@
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yby75/registrationbot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
