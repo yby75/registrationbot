@@ -1,15 +1,10 @@
-## 수강신청 도우미 Easy봇입니다.
+### 안녕하세요. 수강신청 안내를 도와드리는 Easybot 춤추는 망고 입니다  ^^
 
-You can use the [editor on GitHub](https://github.com/yby75/registrationbot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##  Markdown
+![GitHub Logo](/images/https://user-images.githubusercontent.com/104042384/168467045-b485b9b8-ee45-4b7b-85d2-31f8d3191d3a.jpeg){: width="50%" height="50%"}
+(https://user-images.githubusercontent.com/104042384/168467045-b485b9b8-ee45-4b7b-85d2-31f8d3191d3a.jpeg
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
