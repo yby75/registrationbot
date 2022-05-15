@@ -1,13 +1,13 @@
 ### 안녕하세요. 수강신청 안내를 도와드리는 Easybot 춤추는 망고 입니다  ^^
 
-![This is an image](https://user-images.githubusercontent.com/104042384/166693683-a0c73b09-f30d-47a3-826e-303969475751.gif){: width="50%" height="50%"}{:.center}
+![This is an image](https://user-images.githubusercontent.com/104042384/166693683-a0c73b09-f30d-47a3-826e-303969475751.gif){: width="70%" height=750%"}{:.center}
 
 
 
 
 
-### ![image](https://user-images.githubusercontent.com/104042384/168467564-20c27b32-673b-4243-92eb-53eb0e5a6ab2.png)시간표
-![This is an image]https://user-images.githubusercontent.com/104042384/168467029-7d11f618-6000-4b71-92c5-421177e416f0.PNG
+###
+![This is an image](https://user-images.githubusercontent.com/104042384/168467029-7d11f618-6000-4b71-92c5-421177e416f0.PNG)
 
 
 
